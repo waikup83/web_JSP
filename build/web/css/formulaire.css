@@ -1,0 +1,35 @@
+/* 
+    Created on : 2017-09-17, 19:18:33
+    Author     : David Desbiens
+*/
+
+.Centrer {
+    text-align: center;
+}
+
+body {
+    font-size: 25px;
+    background: linear-gradient(rgb(41, 194, 111), rgb(138, 247, 102));
+}
+
+table {
+    margin: auto;
+}
+
+.EncadrerRouge {
+    border: rgb(255, 0, 0) Solid 3px;
+}
+
+
+input, textarea {
+    font-size: 25px;
+}
+
+.espace {
+    height: 20px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: Black;
+}

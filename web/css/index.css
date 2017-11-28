@@ -1,0 +1,43 @@
+/* 
+    Created on : 2017-09-17, 19:18:33
+    Author     : David Desbiens
+*/
+
+/****** Menu *****/
+aside {
+    float: right;
+    font-size: 30px;
+    margin: 10px 15px 0px 0px;
+    color: rgb(0, 0, 145);
+}
+
+
+/***** Contenu *****/
+.Centrer {
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(rgb(71, 166, 235), rgb(169, 245, 217));
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: rgb(0, 0, 145);
+}
+
+#AlbumPhoto {
+    width: 80%;
+    margin: auto; 
+}
+
+#ImagePrecedente, #ImageSuivante {
+    width: 30px;
+}
+#ImagePrincipale img {
+    width: 60%;
+}
+
+footer {
+    text-align: center;
+}
